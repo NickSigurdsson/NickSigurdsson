@@ -9,9 +9,9 @@ I'm Nicholas, a self-taught web developer. I've recently graduated from Conestog
 While my past experience are mainly in the mechanical design and automation field, I am currently learning web development for career development and personal interest.
 <p/>
   
-- 🔭 I’m currently working on my personal website, 
+- 🔭 I’m currently working on my personal website 
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on any web development project
+- 👯 I’m looking to collaborate on any web development project!
 - 📫 Feel free to reach out to me via email: nicholassigurdsson@gmail.com or <a href="https://www.linkedin.com/in/nicksigurdsson/"> Linkedin </a>
 
 **languages and tools:**  
