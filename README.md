@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 <br />
-I'm Nicholas, a self-taught web developer. I've recently graduated from Conestoga College's (B.Eng) Mechanical Systems Engineering program; a program focused on robotics and industrial automation.
+I'm Nicholas, an Application/Software Engineer at Exco Engineering.
 <p>
-While my past experience are mainly in the mechanical design and automation field, I am currently learning web development for career development and personal interest.
+While my past experience are mainly in web development, I am currently learning data analytics and .NET development for career development and personal interest.
 <p/>
   
 - 🔭 I’m currently working on my personal website 
