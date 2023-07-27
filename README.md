@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 <br />
-I'm Nicholas, an Application/Software Engineer at Exco Engineering.
+I'm Nicholas, a Software Developer at Exco Engineering.
 <p>
 While my past experience are mainly in web development, I am currently learning data analytics and .NET development for career development and personal interest.
 <p/>
