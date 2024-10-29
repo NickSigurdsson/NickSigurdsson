@@ -4,6 +4,7 @@
 ### Hi there 👋
 <br />
   I'm Nicholas, a Software Developer at Exco Engineering working on building automation tools for HPDC (High-Pressure Die Casting) design workflows in Siemens NX using its proprietary NXOpen API and its integration with the .NET framework
+<br />
 <p>
   While My experience mainly lie in .NET and web development; I am currently learning the fundamentals of machine learning and data structures and algorithm on my spare time for career development
 <p/>
