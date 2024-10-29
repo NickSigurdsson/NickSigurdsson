@@ -12,6 +12,7 @@ While My experiencce mainly lie in .NET and web development; I am currently lear
 - 👯 I’m looking to collaborate on any hackathons or personal projects!
 - 📫 Feel free to reach out to me via email: nicholassigurdsson@gmail.com or <a href="https://www.linkedin.com/in/nicksigurdsson/"> Linkedin </a>
 
+<!--
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -24,4 +25,5 @@ While My experiencce mainly lie in .NET and web development; I am currently lear
 
 <!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NickSigurdsson)
+-->
 -->
