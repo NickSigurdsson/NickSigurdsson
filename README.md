@@ -3,14 +3,13 @@
 -->
 ### Hi there 👋
 <br />
-I'm Nicholas, a Software Developer at Exco Engineering.
+I'm Nicholas, a Software Developer at Exco Engineering working on building automation tools for HPDC (High-Pressure Die Casting) design workflows in Siemens NX using its proprietary NXOpen API and its integration with the .NET framework
 <p>
-While my past experience are mainly in web development, I am currently learning data analytics and .NET development for career development and personal interest.
+While My experiencce mainly lie in .NET and web development; I am currently learning the fundamentals of machine learning and data structures and algorithm on my spare time for career development
 <p/>
   
-- 🔭 I’m currently working on my personal website 
-- 🌱 I’m currently learning Typescript, integrating Material UI and AWS into my personal projects
-- 👯 I’m looking to collaborate on any web development project!
+- 🔭 I’m currently working on a hackathon project to integrate the use of LLM and web application to improve the efficiency of healthcare logging and documentation
+- 👯 I’m looking to collaborate on any hackathons or personal projects!
 - 📫 Feel free to reach out to me via email: nicholassigurdsson@gmail.com or <a href="https://www.linkedin.com/in/nicksigurdsson/"> Linkedin </a>
 
 **languages and tools:**  
