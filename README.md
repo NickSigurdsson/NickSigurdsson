@@ -9,7 +9,7 @@
   While My experience mainly lie in .NET and web development; I am currently learning the fundamentals of machine learning and data structures and algorithm on my spare time for career development
 <p/>
   
-- 🔭 I’m currently working on a hackathon project to integrate the use of LLM and web application to improve the efficiency of healthcare logging and documentation
+- 🔭 I’m currently working on a personal project to integrate the use of LLM and web application to improve the efficiency of healthcare logging and documentation
 - 👯 I’m looking to collaborate on any hackathons or personal projects!
 - 📫 Feel free to reach out to me via email: nicholassigurdsson@gmail.com or <a href="https://www.linkedin.com/in/nicksigurdsson/"> Linkedin </a>
 
