@@ -1,28 +1,42 @@
-<!--
-**NickSigurdsson/NickSigurdsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ### Hi there 👋
-<br />
-  I'm Nicholas, a Software Developer at Exco Engineering working on building automation tools for HPDC (High-Pressure Die Casting) design workflows in Siemens NX using its proprietary NXOpen API and its integration with the .NET framework
-<br />
-<p>
-  While My experience mainly lie in .NET and web development; I am currently learning the fundamentals of machine learning and data structures and algorithm on my spare time for career development
-<p/>
-  
-- 🔭 I’m currently working on a personal project to integrate the use of LLM and web application to improve the efficiency of healthcare logging and documentation
-- 👯 I’m looking to collaborate on any hackathons or personal projects!
-- 📫 Feel free to reach out to me via email: nicholassigurdsson@gmail.com or <a href="https://www.linkedin.com/in/nicksigurdsson/"> Linkedin </a>
+
+I'm Nicholas, a Software Analyst at Miipe Inc., where I contribute to building a robust test automation platform to accelerate software delivery and improve QA efficiency. I work across Agile, Waterfall, and DevOps environments to design test cases for SFT, UAT, DVT, and ORT, and support performance testing and automation framework design.
+
+Previously, I engineered enterprise-grade desktop and web applications at **Exco Technologies** using .NET Core, WPF, WinForms, and ASP.NET. My work there included:
+- Automating hardware design workflows with Siemens NX Open, reducing ejector pin integration time by **97%**
+- Creating modular WPF tooling integrated with SQL databases and the Epicor ERP system
+- Improving development speed by **40%** with a reusable NX Open function library
+
+As a Founding Software Engineer at **HolisticMind AI**, I built HIPAA-compliant, secure FastAPI + PostgreSQL backends deployed on AWS (EC2, S3, RDS). I also:
+- Developed JWT-based authentication with role-based validation
+- Built a data ingestion pipeline to train domain-specific LLMs using the Retrieval-Augmented Generation (RAG) technique
+- Supported frontend state persistence using PostgreSQL and session management techniques
+
+### 🧠 Currently exploring:
+- 🔭 Building an **automated equity trading system** to optimize my day trading strategies using data-driven execution models
+- 🧠 Integrating **LLMs into web applications** to improve healthcare logging and clinical documentation workflows
+- 👨‍🎓 Pursuing a Master’s in Computer Science at **Georgia Tech (OMSCS)** — specializing in computing systems and AI
+- 📚 Actively learning machine learning fundamentals, DSA, and CUDA/GPU computing to deepen my low-level systems and AI development expertise
+
+### 🚀 Hackathons & Projects
+- 🛠️ **Skill4Skill** – Built a full-stack monolithic Node.js backend with secure JWT-based authentication, custom Mongoose schemas, and observability using AWS CloudWatch, X-Ray, and Datadog APM
+- 🧠 **DigiSpotter** – Hack the North 2022 winning project: an iOS app built with SwiftUI + ARKit to track and correct workout posture in real-time using body motion analysis
+
+---
+
+- 👯 I'm open to collaborating on **AI research projects, DevTools, trading systems, or hackathons**
+- 📫 Reach me at **nicholassigurdsson@gmail.com** or connect with me on [**LinkedIn**](https://www.linkedin.com/in/nicksigurdsson/)
 
 <!--
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+-->
 
 <!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NickSigurdsson)
