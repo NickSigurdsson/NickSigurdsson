@@ -8,13 +8,11 @@ Previously, I engineered enterprise-grade desktop and web applications at **Exco
 - Improving development speed by **40%** with a reusable NX Open function library
 
 As a Founding Software Engineer at **HolisticMind AI**, I built HIPAA-compliant, secure FastAPI + PostgreSQL backends deployed on AWS (EC2, S3, RDS). I also:
-- Developed JWT-based authentication with role-based validation
 - Built a data ingestion pipeline to train domain-specific LLMs using the Retrieval-Augmented Generation (RAG) technique
 - Supported frontend state persistence using PostgreSQL and session management techniques
 
 ### 🧠 Currently exploring:
 - 🔭 Building an **automated equity trading system** to optimize my day trading strategies using data-driven execution models
-- 🧠 Integrating **LLMs into web applications** to improve healthcare logging and clinical documentation workflows
 - 👨‍🎓 Pursuing a Master’s in Computer Science at **Georgia Tech (OMSCS)** — specializing in computing systems and AI
 - 📚 Actively learning machine learning fundamentals, DSA, and CUDA/GPU computing to deepen my low-level systems and AI development expertise
 
