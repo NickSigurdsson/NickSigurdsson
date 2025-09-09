@@ -7,7 +7,7 @@ Previously, I engineered enterprise-grade desktop and web applications at **Exco
 - Creating modular WPF tooling integrated with SQL databases and the Epicor ERP system
 - Improving development speed by **40%** with a reusable NX Open function library
 
-As a Founding Software Engineer at **HolisticMind AI**, I built HIPAA-compliant, secure FastAPI + PostgreSQL backends deployed on AWS (EC2, S3, RDS). I also:
+In my previous role as a Founding Software Engineer at **HolisticMind AI**, I built HIPAA-compliant, secure FastAPI + PostgreSQL backends deployed on AWS (EC2, S3, RDS). I also:
 - Built a data ingestion pipeline to train domain-specific LLMs using the Retrieval-Augmented Generation (RAG) technique
 - Supported frontend state persistence using PostgreSQL and session management techniques
 
