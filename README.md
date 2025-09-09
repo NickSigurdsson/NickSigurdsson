@@ -15,7 +15,7 @@ In my previous role as a Founding Software Engineer at **HolisticMind AI**, I bu
 - 🔭 Building an **automated equity trading system** to optimize my day trading strategies using data-driven execution models
 - 📚 Actively learning machine learning fundamentals, DSA, and CUDA/GPU computing to deepen my low-level systems and AI development expertise
 
-### 🚀 Hackathons & Projects
+### 🚀 Projects
 - 🛠️ **Skill4Skill** – Built a full-stack monolithic Node.js backend with secure JWT-based authentication, custom Mongoose schemas, and observability using AWS CloudWatch, X-Ray, and Datadog APM
 - 🧠 **DigiSpotter** – Hack the North 2022 winning project: an iOS app built with SwiftUI + ARKit to track and correct workout posture in real-time using body motion analysis
 
