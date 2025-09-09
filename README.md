@@ -13,7 +13,6 @@ As a Founding Software Engineer at **HolisticMind AI**, I built HIPAA-compliant,
 
 ### 🧠 Currently exploring:
 - 🔭 Building an **automated equity trading system** to optimize my day trading strategies using data-driven execution models
-- 👨‍🎓 Pursuing a Master’s in Computer Science at **Georgia Tech (OMSCS)** — specializing in computing systems and AI
 - 📚 Actively learning machine learning fundamentals, DSA, and CUDA/GPU computing to deepen my low-level systems and AI development expertise
 
 ### 🚀 Hackathons & Projects
